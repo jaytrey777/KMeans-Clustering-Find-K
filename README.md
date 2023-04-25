@@ -5,6 +5,6 @@ The task is to perform customer segmentation using KMeans. We are interested in 
 Data source: [Customer Segmentation with KMeans](https://github.com/Nikhil-Adithyan/Customer-Segmentation-with-K-Means)
 
 Use KMeans to create various customer segments.
-Use an Elbow Plot of inertia.
-Make a plot of Silhouette Scores.
-Choose a K based on the results.
+- Use an Elbow Plot of inertia.
+- Make a plot of Silhouette Scores.
+- Choose a K based on the results.
